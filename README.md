@@ -9,3 +9,5 @@ Education and work:
 - 💬 Ask me about: Anything physics-related. My primary programming language is Python. 
 
 - 📫 Linked.in: www.linkedin.com/in/emilhenningsen1998
+
+- Experienced in other programming languages & tools: Java, C#, Unity and MS Office Excel. 
