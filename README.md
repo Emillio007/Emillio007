@@ -4,7 +4,7 @@ My name is Emil and I am a master student in Physics, based in Copenhagen, DK.
 
 Education and work:
 - 🔭 I’m currently working on a classification ML-algorithm for use in the public educational sector. The algorithm is intended for institutions to help identify schools alike. 
-- 🌱 I’m currently learning Quantum Physics with specialization in Quantum Information Sciences.
+- 🌱 I’m currently learning Quantum Physics with specialization in Quantum Information Science.
 
 - 💬 Ask me about: Anything physics-related. My primary programming language is Python. 
 
