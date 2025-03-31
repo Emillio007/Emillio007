@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Emil, and I am a Master's student in Quantum Information Science, based in Copenhagen, DK. 
+My name is Emil, and I am a Master in Quantum Information Science, based in Copenhagen, DK. 
 
 Education and work:
 
-🔭 I’m currently working on a simulation tool for investigating the collective excitation behaviour in atom arrays. The package is intended for use in research.
+🔭 I am currently working on a simulation tool for investigating the collective excitation behaviour in atom arrays. The package is intended for use in research.
 
-🌱 I’m finishing up my thesis in Quantum Information Science with specialization in theoretical physics of quantum information processing. I have a Bachelor's degree in Quantum Physics.
+🌱 MSc thesis on theoretical quantum optics within the scope of quantum information processing. Topic: simulating open quantum systems. I have a Bachelor's degree in Quantum Physics.
 
 💬 Ask me about: Anything quantumy. I am always interested in chatting. My primary programming language is Python. 
 
